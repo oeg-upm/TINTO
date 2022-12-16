@@ -1,0 +1,26 @@
+title: "A novel deep learning approach using blurring image techniques for Bluetooth-based indoor localisation"
+license: Apache-2.0
+authors:
+  - family-names: Castillo-Cara
+    given-names: Manuel
+    orcid: "https://orcid.org/0000-0002-2990-7090"
+cff-version: 2.0
+preferred-citation:
+  authors:
+    - family-names: Talla-Chumpitaz
+      given-names: Reewos
+    - family-names: Castillo-Cara
+      given-names: Manuel
+    - family-names: Orozco-Barbosa
+      given-names: Luis
+    - family-names: García-Castro
+      given-names: Raúl
+  title: "A novel deep learning approach using blurring image techniques for Bluetooth-based indoor localisation"
+  type: article
+  journal: Information Fusion
+  doi: 10.1016/j.inffus.2022.10.011
+  year: 2023
+identifiers:
+  - description: "TINTO: A novel algorithm for converting tidy data into synthetic image"
+    type: doi
+    value: 10.5281/zenodo.7447366
