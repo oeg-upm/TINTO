@@ -110,7 +110,7 @@ Also, as no other parameters are indicated, you will choose the following parame
 
 Within the folder named "iris/" we can find subfolders with numbers where each number corresponds to the target used. For example, for the dataset iris.csv we will have three subfolders named "1/", "2/" and "3/". The following Figure shows an image created according to the example seen.
 
-![Help](https://github.com/manwestc/TINTO/blob/main/imgs/characteristic.eps)
+![Help](https://github.com/manwestc/TINTO/blob/main/imgs/characteristic.png)
 
 
 ## More specific example
@@ -127,7 +127,7 @@ The images are created with the following considerations regarding the parameter
 - **Image size (-px)**: 30x30 pixels
 - **Blurring steps (-sB)**: Expand 5 pixels the blurring.
 
-![Help](https://github.com/manwestc/TINTO/blob/main/imgs/blurring.eps)
+![Help](https://github.com/manwestc/TINTO/blob/main/imgs/blurring.png)
 
 
 
