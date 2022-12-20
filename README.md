@@ -56,7 +56,7 @@ To run the engine via **command line** and see all the **[parameters]()** you ju
     python tinto.py -h
 ```
 
-![Help](http://url/to/tinto_help.png)
+![Help](https://github.com/manwestc/TINTO/blob/main/imgs/tinto_help.png)
 
 The default parameter are the following:
 - **Dimensional Reduction Algorithm (-alg)**: Select the dimensionality reduction algorithm to be used for image creation. The [PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA)** or [*t*-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html) algorithms can be chosen. By default, use the [PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA)** algorithm.
@@ -110,7 +110,7 @@ Also, as no other parameters are indicated, you will choose the following parame
 
 Within the folder named "iris/" we can find subfolders with numbers where each number corresponds to the target used. For example, for the dataset iris.csv we will have three subfolders named "1/", "2/" and "3/". The following Figure shows an image created according to the example seen.
 
-![Help](http://url/to/000000.png)
+![Help](https://github.com/manwestc/TINTO/blob/main/imgs/000000.png)
 
 
 ## More specific example
@@ -127,7 +127,7 @@ The images are created with the following considerations regarding the parameter
 - **Image size (-px)**: 30x30 pixels
 - **Blurring steps (-sB)**: Expand 5 pixels the blurring.
 
-![Help](http://url/to/000040.png)
+![Help](https://github.com/manwestc/TINTO/blob/main/imgs/000040.png)
 
 
 
