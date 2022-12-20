@@ -94,7 +94,7 @@ For example, the following table shows a classic example of the [IRIS CSV datase
 The following example shows how to create 20x20 images with characteristic pixels, i.e. without blurring. 
 
 ```
-    python tinto.py "iris.csv" "iris_images" -B
+    python tinto.py "iris.csv" "iris_images"
 ```
 
 The images are created with the following considerations regarding the parameters used:
