@@ -17,7 +17,7 @@ preferred-citation:
       affiliation: "Universidad Politécnica de Madrid"
       orcid: "https://orcid.org/0000-0002-0421-452X"
   type: article
-  journal: Information Fusion
+  journal: "Information Fusion"
   doi: 10.1016/j.inffus.2022.10.011
   year: 2023
 identifiers:
