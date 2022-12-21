@@ -4,17 +4,17 @@ title: "A novel deep learning approach using blurring image techniques for Bluet
 license: Apache-2.0
 preferred-citation:
   authors:
-    - family-names: Castillo-Cara
-      given-names: Manuel
-      affiliation: Universidad Politécnica de Madrid
+    - family-names: "Castillo-Cara"
+      given-names: "Manuel"
+      affiliation: "Universidad Politécnica de Madrid"
       orcid: "https://orcid.org/0000-0002-2990-7090"
-    - family-names: Orozco-Barbosa
-      given-names: Luis
-      affiliation: Universidad de Castilla-La Mancha
+    - family-names: "Orozco-Barbosa"
+      given-names: "Luis"
+      affiliation: "Universidad de Castilla-La Mancha"
       orcid: "https://orcid.org/0000-0003-1510-1608"
-    - family-names: García-Castro
-      given-names: Raúl
-      affiliation: Universidad Politécnica de Madrid
+    - family-names: "García-Castro"
+      given-names: "Raúl"
+      affiliation: "Universidad Politécnica de Madrid"
       orcid: "https://orcid.org/0000-0002-0421-452X"
   type: article
   journal: Information Fusion
