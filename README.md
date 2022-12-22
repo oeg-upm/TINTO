@@ -46,7 +46,7 @@
 
 Fist, it is important to install all previus libraries
 ```
-pip install -r requirements.txt
+    pip install -r requirements.txt
 ```
 
 We recommend to use **[virtual environments](https://docs.python.org/3/library/venv.html#)** to install Morph-KGC.
