@@ -29,6 +29,7 @@ doi = {https://doi.org/10.1016/j.inffus.2022.10.011}
 - Input data formats:
     - **Tabular files**: The input data must be in **[CSV](https://en.wikipedia.org/wiki/Comma-separated_values)**, taking into account the **[Tidy Data](https://www.jstatsoft.org/article/view/v059i10)** format.
     - **Tidy Data**: The **target** (variable to be predicted) should be set as the last column of the dataset. Therefore, the first columns will be the features.
+    - All data must be in numerical form. TINTO does not accept data in string or any other non-numeric format.
 - Two dimensionality reduction algorithms are used in image creation, **[PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA)** and **[*t*-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)** from the Scikit-learn Python library.
 - The synthetic images to be created will be in black and white, i.e. in 1 channel.
 - The synthetic image **dimensions** can be set as a parameter when creating them.
