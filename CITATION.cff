@@ -9,6 +9,9 @@ authors:
 cff-version: 1.2.0
 preferred-citation:
   authors:
+  - family-names: "Talla-Chumpitaz"
+      given-names: "Reewos"
+      affiliation: "Universidad Nacional de Ingeniería"
     - family-names: "Castillo-Cara"
       given-names: "Manuel"
       affiliation: "Universidad Politécnica de Madrid"
