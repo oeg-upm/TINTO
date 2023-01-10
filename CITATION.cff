@@ -1,5 +1,5 @@
 
-title: "TINTO: A novel algorithm for converting tidy data into synthetic image"
+title: "TINTO: A Novel Framework to Convert Tidy Data into Image for Deep Learning with Convolutional Neural Networks"
 license: Apache-2.0
 authors:
   - family-names: "Castillo-Cara"
@@ -21,7 +21,7 @@ preferred-citation:
       given-names: "Raúl"
       affiliation: "Universidad Politécnica de Madrid"
       orcid: "https://orcid.org/0000-0002-0421-452X"
-  titile: "A novel deep learning approach using blurring image techniques for Bluetooth-based indoor localisation"
+  title: "A novel deep learning approach using blurring image techniques for Bluetooth-based indoor localisation"
   type: article
   journal: "Information Fusion"
   doi: 10.1016/j.inffus.2022.10.011

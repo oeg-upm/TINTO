@@ -103,7 +103,7 @@ def m_imagen(coord,vertices,filename,pixeles=24):
         return coord_m, matriz, False
 
 
-def blurring(matriz, coordinate, distance=0.1, steps=3, amplification=np.pi, option='maximo'):
+def blurring(matriz, coordinate, distance=0.1, steps=3, amplification=np.pi, option='maximum'):
     """
    This function is to be able to add more ordered contextual information to the image through the
    classical painting technique called blurring. This function develops the following main steps:
@@ -122,8 +122,6 @@ def blurring(matriz, coordinate, distance=0.1, steps=3, amplification=np.pi, opt
     
     for p in range(steps):
         r_actual = int(matriz.shape[0]*distance*(p+1))   
-        
-        
         intensity=min(amplification*core_value/(np.pi*r_actual**2),core_value)
         
         # Delimitation of the area
@@ -145,7 +143,7 @@ def blurring(matriz, coordinate, distance=0.1, steps=3, amplification=np.pi, opt
     return matriz
 
    
-def imageSample(X, Y, coord, matriz, folder, amplification, distance=0.1, steps=3, option='maximo', train_m=False):
+def imageSample(X, Y, coord, matriz, folder, amplification, distance=0.1, steps=3, option='maximum', train_m=False):
     """
     This function creates the samples, i.e., the images. This function has the following specifications:
     - The first conditional performs the pre-processing of the images by creating the matrices.
@@ -223,7 +221,7 @@ class DataImg:
     related to each step in the data transformation process
     """
     
-    def __init__(self, algorithm='PCA', pixeles=20, seed=20, times=4, amp=np.pi, distance=0.1, steps=4, option='maximo'):
+    def __init__(self, algorithm='PCA', pixeles=20, seed=20, times=4, amp=np.pi, distance=0.1, steps=4, option='maximum'):
         """
         This function initialises packages and objects in Python, i.e., displays 
         the initialisation of each object.
@@ -269,8 +267,8 @@ class DataImg:
             print("Error: Incorrect algorithm")
             X_embedded = np.random.rand(X.shape[1],2)
         
-        datos_coordenadas = {'x':X_embedded[:,0], 'y':X_embedded[:,1], 'Label':labels}
-        dc = pd.DataFrame(data=datos_coordenadas)
+        data_coord = {'x':X_embedded[:,0], 'y':X_embedded[:,1], 'Label':labels}
+        dc = pd.DataFrame(data=data_coord)
         self.obtain_coord = dc.groupby('Label').mean().values
 
         del X_trans
