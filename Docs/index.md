@@ -36,14 +36,15 @@ If you used TINTO in your work, please cite the **[Information Fusion Journal](h
 
 The **documentation** is licensed under **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**.
 
-## Author
+## Authors
 
-- **[Manuel Castillo-Cara](https://github.com/manwestc) - [manuel.castillo.cara@upm.es](mailto:manuel.castillo.cara@upm.es)**
+- **[Manuel Castillo-Cara](https://github.com/manwestc) - [jcastillo@fi.upm.es](mailto:jcastillo@fi.upm.es)**
+- **[Raúl García-Castro](https://github.com/rgcmme)**
 
-*[Ontology Engineering Group](https://oeg.fi.upm.es/)*, *[Universidad Politécnica de Madrid](https://www.upm.es/internacional)*.
+*[Ontology Engineering Group](https://oeg.fi.upm.es)*, *[Universidad Politécnica de Madrid](https://www.upm.es/internacional)*.
 
 ## Contributors
 
-See the full list of contributors in **[GitHub](https://github.com/manwestc/TINTO/graphs/contributors)**.
+See the full list of contributors **[here](https://github.com/manwestc/TINTO/graphs/contributors)**.
 
-![OEG](assets/logo-oeg.png){ width="150" align=left } ![UPM](assets/logo-upm.png){ width="161" align=right }
+<img src="assets/logo-oeg.png" alt="Ontology Engineering Group" width="200"> <img src="assets/logo-upm.png" alt="Universidad Politécnica de Madrid" width="200"> <img src="assets/logo-uclm.png" alt="Universidad de Castilla-La Mancha" width="170">

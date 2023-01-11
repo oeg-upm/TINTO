@@ -136,7 +136,7 @@ TINTO is available under the **[Apache License 2.0](https://github.com/manwestc/
 
 ## Authors
 
-- **[Manuel Castillo-Cara](https://github.com/manwestc) - [manuel.castillo.cara@upm.es](mailto:manuel.castillo.cara@upm.es)**
+- **[Manuel Castillo-Cara](https://github.com/manwestc) - [jcastillo@fi.upm.es](mailto:jcastillo@fi.upm.es)**
 - **[Raúl García-Castro](https://github.com/rgcmme)**
 
 *[Ontology Engineering Group](https://oeg.fi.upm.es)*, *[Universidad Politécnica de Madrid](https://www.upm.es/internacional)*.
@@ -145,4 +145,4 @@ TINTO is available under the **[Apache License 2.0](https://github.com/manwestc/
 
 See the full list of contributors **[here](https://github.com/manwestc/TINTO/graphs/contributors)**.
 
-<img src="assets/logo-oeg.png" alt="OEG" width="200"> <img src="assets/logo-upm.png" alt="OEG" width="200"> <img src="assets/logo-uclm.png" alt="OEG" width="170">
+<img src="assets/logo-oeg.png" alt="Ontology Engineering Group" width="200"> <img src="assets/logo-upm.png" alt="Universidad Politécnica de Madrid" width="200"> <img src="assets/logo-uclm.png" alt="Universidad de Castilla-La Mancha" width="170">
