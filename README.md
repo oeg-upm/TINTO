@@ -145,5 +145,5 @@ TINTO is available under the **[Apache License 2.0](https://github.com/manwestc/
 
 See the full list of contributors **[here](https://github.com/manwestc/TINTO/graphs/contributors)**.
 
-
-![OEG](assets/logo-oeg.png){ width="100"; align=left } ![UPM](assets/logo-upm.png){ width="101" ;align=center } ![UPM](assets/logo-uclm.png){ width="101"; align=right }
+<img src="assets/logo-oeg.png" alt="OEG" width="100"/>
+![OEG](assets/logo-oeg.png){ width:100px; align=left } ![UPM](assets/logo-upm.png){ width:101px ;align=center } ![UPM](assets/logo-uclm.png){ width="101"; align=right }
