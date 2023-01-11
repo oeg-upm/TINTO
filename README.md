@@ -145,4 +145,4 @@ TINTO is available under the **[Apache License 2.0](https://github.com/manwestc/
 
 See the full list of contributors **[here](https://github.com/manwestc/TINTO/graphs/contributors)**.
 
-<img src="assets/logo-oeg.png" alt="OEG" width="200"> <img src="assets/logo-upm.png" alt="OEG" width="200"> <img src="assets/logo-uclm.png" alt="OEG" width="200">
+<img src="assets/logo-oeg.png" alt="OEG" width="200"> <img src="assets/logo-upm.png" alt="OEG" width="200"> <img src="assets/logo-uclm.png" alt="OEG" width="170">
