@@ -38,9 +38,9 @@
 
 ## Documentation
 
-<video src='imgs/TINTO-video.mp4' width=180/>
+https://user-images.githubusercontent.com/102165947/212918739-89fca790-3360-4a8c-89b7-443f294fba6f.mp4
 
-**[Read the documentation](https://readthedocs.io/en/latest/documentation/)**.
+<!--- **[Read the documentation](https://readthedocs.io/en/latest/documentation/)**. -->
 
 ## Getting Started
 
