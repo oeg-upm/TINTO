@@ -38,6 +38,8 @@
 
 ## Documentation
 
+<video src='imgs/TINTO-video.mp4' width=180/>
+
 **[Read the documentation](https://readthedocs.io/en/latest/documentation/)**.
 
 ## Getting Started
