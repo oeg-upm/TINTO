@@ -36,7 +36,7 @@
 - Runs on **Linux**, **Windows** and **macOS** systems.
 - Compatible with **[Python](https://www.python.org/)** 3.7 or higher.
 
-## Documentation
+## Video Documentation
 
 https://user-images.githubusercontent.com/102165947/212918739-89fca790-3360-4a8c-89b7-443f294fba6f.mp4
 
@@ -52,7 +52,7 @@ Fist, it is important to install all previus libraries
 ```
 
 
-To run the engine via **command line** and see all the **[parameters]()** you just need to execute the following:
+To run the engine via **command line** and see all the **arguments** you just need to execute the following:
 ```
     python tinto.py -h
 ```
@@ -83,7 +83,7 @@ Please note that the following considerations must be taken into account before 
 - The script takes by default the first row as the name of each feature, therefore, the different features must be named.
 - Each sample (row) of the dataset will correspond to an image.
 
-For example, the following table shows a classic example of the [IRIS CSV dataset](https://archive.ics.uci.edu/ml/datasets/iris){:target="_blank"} as it should look like for the run:
+For example, the following table shows a classic example of the [IRIS CSV dataset](https://archive.ics.uci.edu/ml/datasets/iris){:hreflang="de"} as it should look like for the run:
 
 | sepal length | sepal width | petal length | petal width | target |
 |--------------|-------------|--------------|-------------|--------|
