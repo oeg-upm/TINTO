@@ -4,7 +4,7 @@
 [![Documentation Status](https://readthedocs.org/projects/morph-kgc/badge/?version=latest)]()
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/)
 
-**TINTO** is an engine that constructs **Synthetic Images** from [Tidy Data](https://www.jstatsoft.org/article/view/v059i10){:target="_blank"} (also knows as **Tabular Data**). 
+**TINTO** is an engine that constructs **Synthetic Images** from [Tidy Data](https://www.jstatsoft.org/article/view/v059i10) (also knows as **Tabular Data**). 
 
 **Citing TINTO**: If you used TINTO in your work, please cite the **[INFFUS Paper](https://doi.org/10.1016/j.inffus.2022.10.011)**:
 
@@ -83,7 +83,7 @@ Please note that the following considerations must be taken into account before 
 - The script takes by default the first row as the name of each feature, therefore, the different features must be named.
 - Each sample (row) of the dataset will correspond to an image.
 
-For example, the following table shows a classic example of the [IRIS CSV dataset](https://archive.ics.uci.edu/ml/datasets/iris?target=_blank) as it should look like for the run:
+For example, the following table shows a classic example of the [IRIS CSV dataset](https://archive.ics.uci.edu/ml/datasets/iris) as it should look like for the run:
 
 | sepal length | sepal width | petal length | petal width | target |
 |--------------|-------------|--------------|-------------|--------|
