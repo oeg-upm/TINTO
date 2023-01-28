@@ -4,7 +4,7 @@
 [![Documentation Status](https://readthedocs.org/projects/morph-kgc/badge/?version=latest)]()
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/)
 
-**TINTO** is an engine that constructs **Synthetic Images** from **[Tidy Data](https://www.jstatsoft.org/article/view/v059i10)** (also knows as **Tabular Data**). 
+**TINTO** is an engine that constructs **Synthetic Images** from **[Tidy Data](https://www.jstatsoft.org/article/view/v059i10){:target="_blank"}** (also knows as **Tabular Data**). 
 
 **Citing TINTO**: If you used TINTO in your work, please cite the **[INFFUS Paper](https://doi.org/10.1016/j.inffus.2022.10.011)**:
 
