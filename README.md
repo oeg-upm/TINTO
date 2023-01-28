@@ -83,7 +83,7 @@ Please note that the following considerations must be taken into account before 
 - The script takes by default the first row as the name of each feature, therefore, the different features must be named.
 - Each sample (row) of the dataset will correspond to an image.
 
-For example, the following table shows a classic example of the [IRIS CSV dataset](https://archive.ics.uci.edu/ml/datasets/iris){:hreflang="de"} as it should look like for the run:
+For example, the following table shows a classic example of the [IRIS CSV dataset](https://archive.ics.uci.edu/ml/datasets/iris"  target="_blank) as it should look like for the run:
 
 | sepal length | sepal width | petal length | petal width | target |
 |--------------|-------------|--------------|-------------|--------|
