@@ -146,4 +146,4 @@ TINTO is available under the **[Apache License 2.0](https://github.com/manwestc/
 
 See the full list of contributors **[here](https://github.com/manwestc/TINTO/graphs/contributors)**.
 
-<kbd><img src="assets/logo-oeg.png" alt="Ontology Engineering Group" width="200"></kbd> <kbd><img src="assets/logo-upm.png" alt="Universidad Politécnica de Madrid" width="200"></kbd> <kbd><img src="assets/logo-uclm.png" alt="Universidad de Castilla-La Mancha" width="170"></kbd> 
+<kbd><img src="assets/logo-oeg.png" alt="Ontology Engineering Group" width="200"><img src="assets/logo-upm.png" alt="Universidad Politécnica de Madrid" width="200"><img src="assets/logo-uclm.png" alt="Universidad de Castilla-La Mancha" width="170"></kbd> 
