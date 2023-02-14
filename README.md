@@ -38,13 +38,14 @@
 
 ## Video Documentation
 
-https://user-images.githubusercontent.com/102165947/212918739-89fca790-3360-4a8c-89b7-443f294fba6f.mp4
+https://user-images.githubusercontent.com/102165947/217485660-ca7e936a-e9bb-48a3-aaa4-3ba003bac36d.mp4
+
 
 <!--- **[Read the documentation](https://readthedocs.io/en/latest/documentation/)**. -->
 
 ## Getting Started
 
-**[TINTO](https://github.com/manwestc/TINTO)** is easy to use in terminal:
+**[TINTO](https://github.com/oeg-upm/TINTO)** is easy to use in terminal:
 
 Fist, it is important to install all previus libraries
 ```
