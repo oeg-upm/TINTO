@@ -35,7 +35,7 @@ parser.add_argument("-px",  "--pixels", dest="pixels", default=20, help="Image's
 
 parser.add_argument("-B",  "--blurr", dest="blurr_active", action='store_true', help="Active option blurring")
 parser.add_argument("-aB",  "--amplification_blurr", dest="amplification", default=np.pi, help="Amplification in blurring", type=float)
-parser.add_argument("-dB",  "--distance_blurr", dest="distance", default=6, help="Distance in blurring (number of pixels)", type=float)
+parser.add_argument("-dB",  "--distance_blurr", dest="distance", default=2, help="Distance in blurring (number of pixels)", type=int)
 parser.add_argument("-sB",  "--steps_blurr", dest="steps", default=4, help="Steps in blurring", type=int)
 parser.add_argument("-oB",  "--option_blurr", dest="option", default='mean', choices=['mean','maximum'], help="Option in blurring (mean and maximum)")
 
@@ -320,7 +320,7 @@ class DataImg:
         """
         self.pos_pixel_caract, self.m, self.error_pos = m_imagen(self.initial_coordinates,self.vertices,filename,pixeles=self.p)
         
-    def CrearImg(self, X, Y, folder = 'TINTO-images/', train_m=False, verbose=False):
+    def CrearImg(self, X, Y, folder = 'prueba/', train_m=False, verbose=False):
         """
         This function creates the images that will be processed by CNN.
         """
