@@ -23,6 +23,10 @@
 }
 ```
 
+## Description
+
+The growing interest in the use of algorithms-based machine learning for predictive tasks has generated a large and diverse development of algorithms. However, it is widely known that not all of these algorithms are adapted to efficient solutions in certain tidy data format datasets. For this reason, novel techniques are currently being developed to convert tidy data into images with the aim of using Convolutional Neural Networks (CNNs). TINTO offers the opportunity to convert tidy data into images through the representation of characteristic pixels by implementing two dimensional reduction algorithms: Principal Component Analysis (PCA) and _t_-distributed Stochastic Neighbour Embedding (_t_-SNE). Our proposal also includes a blurring technique, which adds more ordered information to the image and can improve the classification task in CNNs.
+
 ## Main Features
 
 - Supports all CSV data in **[Tidy Data](https://www.jstatsoft.org/article/view/v059i10)** format.
