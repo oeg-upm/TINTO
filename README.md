@@ -5,6 +5,8 @@
 
 ## TINTO: Converting Tidy Data into Image for Classification with 2-Dimensional Convolutional Neural Networks
 
+<kbd><img src="imgs/tinto-logo.svg" alt="TINTO Logo" width="100"></kbd>
+
 **TINTO** is an engine that constructs **Synthetic Images** from [Tidy Data](https://www.jstatsoft.org/article/view/v059i10) (also knows as **Tabular Data**). 
 
 **Citing TINTO**: If you used TINTO in your work, please cite the **[SoftwareX](https://doi.org/10.1016/j.inffus.2022.10.011)**:
@@ -38,6 +40,8 @@ And use-case developed in **[INFFUS Paper](https://doi.org/10.1016/j.inffus.2022
 ## Description
 
 The growing interest in the use of algorithms-based machine learning for predictive tasks has generated a large and diverse development of algorithms. However, it is widely known that not all of these algorithms are adapted to efficient solutions in certain tidy data format datasets. For this reason, novel techniques are currently being developed to convert tidy data into images with the aim of using Convolutional Neural Networks (CNNs). TINTO offers the opportunity to convert tidy data into images through the representation of characteristic pixels by implementing two dimensional reduction algorithms: PCA and _t_-SNE. Our proposal also includes a blurring technique, which adds more ordered information to the image and can improve the classification task in CNNs.
+
+<kbd><img src="imgs/tinto-framework.png" alt="TINTO Logo" width="150"></kbd>
 
 ## Main Features
 
@@ -148,6 +152,14 @@ The images are created with the following considerations regarding the parameter
 - **Blurring steps (-sB)**: Expand 5 pixels the blurring.
 
 <kbd> ![Blurring](https://github.com/manwestc/TINTO/blob/main/imgs/blurring.png) </kbd>
+
+
+## How to use in a CNN
+Once the images have been created by TINTO, they can be imported into any project using CNNs. 
+
+In order to facilitate their use, a Jupyter Notebook has been created in which you can see how the images are read and how they can be used as input in a CNN.
+
+**[Link to Google Colab](https://colab.research.google.com/drive/1plFq1CpEXIdc9LankaLPiOObRg0_y5l2?usp=sharing)
 
 ## License
 
