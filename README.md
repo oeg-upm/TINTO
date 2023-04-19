@@ -1,14 +1,26 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/manwestc/TINTO/blob/main/LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7463973.svg)](https://doi.org/10.5281/zenodo.7463973)
 [![Python Version](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue)](https://pypi.python.org/pypi/)
-[![Documentation Status](https://readthedocs.org/projects/morph-kgc/badge/?version=latest)]()
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/)
+[![Open In Colab](https://colab.research.google.com/drive/1plFq1CpEXIdc9LankaLPiOObRg0_y5l2?usp=sharing)
 
 ## TINTO: Converting Tidy Data into Image for Classification with 2-Dimensional Convolutional Neural Networks
 
 **TINTO** is an engine that constructs **Synthetic Images** from [Tidy Data](https://www.jstatsoft.org/article/view/v059i10) (also knows as **Tabular Data**). 
 
-**Citing TINTO**: If you used TINTO in your work, please cite the **[INFFUS Paper](https://doi.org/10.1016/j.inffus.2022.10.011)**:
+**Citing TINTO**: If you used TINTO in your work, please cite the **[SoftwareX](https://doi.org/10.1016/j.inffus.2022.10.011)**:
+
+```bib
+@article{softwarex_TINTO,
+    title = {TINTO: Converting Tidy Data into Image for Classification with 2-Dimensional Convolutional Neural Networks},
+    journal = {SoftwareX},
+    author = {Manuel Castillo-Cara and Reewos Talla-Chumpitaz and Raúl García-Castro and Luis Orozco-Barbosa},
+    year = {2023},
+    issn = {2352-7110},
+    doi = {https://doi.org/10.1016/j.inffus.2022.10.011}
+}
+```
+
+And use-case developed in **[INFFUS Paper](https://doi.org/10.1016/j.inffus.2022.10.011)** 
 
 ```bib
 @article{inffus_TINTO,
