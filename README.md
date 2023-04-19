@@ -46,7 +46,12 @@ And use-case developed in **[INFFUS Paper](https://doi.org/10.1016/j.inffus.2022
 
 The growing interest in the use of algorithms-based machine learning for predictive tasks has generated a large and diverse development of algorithms. However, it is widely known that not all of these algorithms are adapted to efficient solutions in certain tidy data format datasets. For this reason, novel techniques are currently being developed to convert tidy data into images with the aim of using Convolutional Neural Networks (CNNs). TINTO offers the opportunity to convert tidy data into images through the representation of characteristic pixels by implementing two dimensional reduction algorithms: PCA and _t_-SNE. Our proposal also includes a blurring technique, which adds more ordered information to the image and can improve the classification task in CNNs.
 
-<kbd><img src="imgs/tinto-framework.png" alt="TINTO Logo" width="150"></kbd>
+<div>
+<p align = "center">
+<img src="imgs/tinto-framework.png" alt="TINTO Logo" width="300">
+</p>
+</div>
+
 
 ## Main Features
 
@@ -65,7 +70,12 @@ The growing interest in the use of algorithms-based machine learning for predict
 
 ## Video Documentation
 
+<div>
+<p align = "center">
 https://user-images.githubusercontent.com/102165947/217485660-ca7e936a-e9bb-48a3-aaa4-3ba003bac36d.mp4
+</p>
+</div>
+
 
 
 <!--- **[Read the documentation](https://readthedocs.io/en/latest/documentation/)**. -->
@@ -85,7 +95,12 @@ To run the engine via **command line** and see all the **arguments** you just ne
     python tinto.py -h
 ```
 
-![Help](https://github.com/manwestc/TINTO/blob/main/imgs/tinto_help.png)
+<div>
+<p align = "center">
+<img src="https://github.com/manwestc/TINTO/blob/main/imgs/tinto_help.png" alt="TINTO Logo" width="150">
+</p>
+</div>
+
 
 The default parameter are the following:
 - **Dimensional Reduction Algorithm (-alg)**: Select the dimensionality reduction algorithm to be used for image creation. The [PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA)** or [*t*-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html) algorithms can be chosen. By default, use the [PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA)** algorithm.
@@ -139,7 +154,11 @@ Also, as no other parameters are indicated, you will choose the following parame
 
 Within the folder named "iris/" we can find subfolders with numbers where each number corresponds to the target used. For example, for the dataset iris.csv we will have three subfolders named "1/", "2/" and "3/". The following Figure shows an image created according to the example seen.
 
-<kbd> ![Characteristic](https://github.com/manwestc/TINTO/blob/main/imgs/characteristic.png) </kbd>
+<div>
+<p align = "center">
+<img src="https://github.com/manwestc/TINTO/blob/main/imgs/characteristic.png" alt="TINTO output" width="150">
+</p>
+</div>
 
 
 ## More specific example
@@ -156,7 +175,12 @@ The images are created with the following considerations regarding the parameter
 - **Image size (-px)**: 30x30 pixels
 - **Blurring steps (-sB)**: Expand 5 pixels the blurring.
 
-<kbd> ![Blurring](https://github.com/manwestc/TINTO/blob/main/imgs/blurring.png) </kbd>
+<div>
+<p align = "center">
+<img src="https://github.com/manwestc/TINTO/blob/main/imgs/blurring.png" alt="TINTO output" width="150">
+</p>
+</div>
+
 
 
 ## How to use in a CNN
