@@ -48,7 +48,7 @@ The growing interest in the use of algorithms-based machine learning for predict
 
 <div>
 <p align = "center">
-<img src="imgs/tinto-framework.png" alt="TINTO Logo" width="300">
+<img src="imgs/tinto-framework.png" alt="TINTO Logo" width="500">
 </p>
 </div>
 
@@ -93,7 +93,7 @@ To run the engine via **command line** and see all the **arguments** you just ne
 
 <div>
 <p align = "center">
-<img src="https://github.com/manwestc/TINTO/blob/main/imgs/tinto_help.png" alt="TINTO Logo" width="450">
+<img src="https://github.com/manwestc/TINTO/blob/main/imgs/tinto_help.png" alt="TINTO Logo" width="550">
 </p>
 </div>
 
@@ -150,7 +150,11 @@ Also, as no other parameters are indicated, you will choose the following parame
 
 Within the folder named "iris/" we can find subfolders with numbers where each number corresponds to the target used. For example, for the dataset iris.csv we will have three subfolders named "1/", "2/" and "3/". The following Figure shows an image created according to the example seen.
 
-<kbd> ![Characteristic](https://github.com/manwestc/TINTO/blob/main/imgs/characteristic.png) </kbd>
+<div>
+<p align = "center">
+<kbd><img src="https://github.com/manwestc/TINTO/blob/main/imgs/characteristic.png" alt="TINTO characteristic pixel" width="450"></kbd>
+</p>
+</div>
 
 
 ## More specific example
@@ -167,11 +171,15 @@ The images are created with the following considerations regarding the parameter
 - **Image size (-px)**: 30x30 pixels
 - **Blurring steps (-sB)**: Expand 5 pixels the blurring.
 
+<div>
+<p align = "center">
+<kbd><img src="https://github.com/manwestc/TINTO/blob/main/imgs/blurring.png" alt="TINTO blurring" width="450"></kbd>
+</p>
+</div>
 
-<kbd> ![Blurring](https://github.com/manwestc/TINTO/blob/main/imgs/blurring.png) </kbd>
 
 
-## How to use in a CNN
+## How to use in CNN
 Once the images have been created by TINTO, they can be imported into any project using CNNs. 
 
 In order to facilitate their use, a Jupyter Notebook has been created in which you can see how the images are read and how they can be used as input in a CNN.
