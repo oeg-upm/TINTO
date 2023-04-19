@@ -6,7 +6,7 @@
 ## TINTO: Converting Tidy Data into Image for Classification with 2-Dimensional Convolutional Neural Networks
 
 <div>
-<p style = 'text-align:center;'>
+<p align = "center">
 <img src="imgs/tinto-logo.svg" alt="TINTO Logo" width="150">
 </p>
 </div>
