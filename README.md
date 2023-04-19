@@ -70,12 +70,8 @@ The growing interest in the use of algorithms-based machine learning for predict
 
 ## Video Documentation
 
-<div>
-<p align = "center">
-https://user-images.githubusercontent.com/102165947/217485660-ca7e936a-e9bb-48a3-aaa4-3ba003bac36d.mp4
-</p>
-</div>
 
+https://user-images.githubusercontent.com/102165947/217485660-ca7e936a-e9bb-48a3-aaa4-3ba003bac36d.mp4
 
 
 <!--- **[Read the documentation](https://readthedocs.io/en/latest/documentation/)**. -->
@@ -97,7 +93,7 @@ To run the engine via **command line** and see all the **arguments** you just ne
 
 <div>
 <p align = "center">
-<img src="https://github.com/manwestc/TINTO/blob/main/imgs/tinto_help.png" alt="TINTO Logo" width="150">
+<img src="https://github.com/manwestc/TINTO/blob/main/imgs/tinto_help.png" alt="TINTO Logo" width="450">
 </p>
 </div>
 
@@ -154,11 +150,7 @@ Also, as no other parameters are indicated, you will choose the following parame
 
 Within the folder named "iris/" we can find subfolders with numbers where each number corresponds to the target used. For example, for the dataset iris.csv we will have three subfolders named "1/", "2/" and "3/". The following Figure shows an image created according to the example seen.
 
-<div>
-<p align = "center">
-<img src="https://github.com/manwestc/TINTO/blob/main/imgs/characteristic.png" alt="TINTO output" width="150">
-</p>
-</div>
+<kbd> ![Characteristic](https://github.com/manwestc/TINTO/blob/main/imgs/characteristic.png) </kbd>
 
 
 ## More specific example
@@ -175,12 +167,8 @@ The images are created with the following considerations regarding the parameter
 - **Image size (-px)**: 30x30 pixels
 - **Blurring steps (-sB)**: Expand 5 pixels the blurring.
 
-<div>
-<p align = "center">
-<img src="https://github.com/manwestc/TINTO/blob/main/imgs/blurring.png" alt="TINTO output" width="150">
-</p>
-</div>
 
+<kbd> ![Blurring](https://github.com/manwestc/TINTO/blob/main/imgs/blurring.png) </kbd>
 
 
 ## How to use in a CNN
@@ -205,4 +193,9 @@ TINTO is available under the **[Apache License 2.0](https://github.com/manwestc/
 
 See the full list of contributors **[here](https://github.com/manwestc/TINTO/graphs/contributors)**.
 
+<div>
+<p align = "center">
 <kbd><img src="assets/logo-oeg.png" alt="Ontology Engineering Group" width="200"></kbd> <kbd><img src="assets/logo-upm.png" alt="Universidad Politécnica de Madrid" width="200"></kbd> <kbd><img src="assets/logo-uclm.png" alt="Universidad de Castilla-La Mancha" width="155"></kbd> 
+</p>
+</div>
+
