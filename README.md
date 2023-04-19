@@ -48,7 +48,7 @@ The growing interest in the use of algorithms-based machine learning for predict
 
 <div>
 <p align = "center">
-<img src="imgs/tinto-framework.png" alt="TINTO Logo" width="500">
+<img src="imgs/tinto-framework.png" alt="TINTO Logo" width="650">
 </p>
 </div>
 
@@ -124,11 +124,15 @@ Please note that the following considerations must be taken into account before 
 
 For example, the following table shows a classic example of the [IRIS CSV dataset](https://archive.ics.uci.edu/ml/datasets/iris) as it should look like for the run:
 
+<div>
+<p align = "center">
 | sepal length | sepal width | petal length | petal width | target |
 |--------------|-------------|--------------|-------------|--------|
 | 4.9          | 3.0         | 1.4          | 0.2         | 1      |
 | 7.0          | 3.2         | 4.7          | 1.4         | 2      |
 | 6.3          | 3.3         | 6.0          | 2.5         | 3      |
+</p>
+</div>
 
 ## Simple example without Blurring
 The following example shows how to create 20x20 images with characteristic pixels, i.e. without blurring. 
@@ -152,7 +156,7 @@ Within the folder named "iris/" we can find subfolders with numbers where each n
 
 <div>
 <p align = "center">
-<kbd><img src="https://github.com/manwestc/TINTO/blob/main/imgs/characteristic.png" alt="TINTO characteristic pixel" width="450"></kbd>
+<kbd><img src="https://github.com/manwestc/TINTO/blob/main/imgs/characteristic.png" alt="TINTO characteristic pixel" width="250"></kbd>
 </p>
 </div>
 
@@ -173,7 +177,7 @@ The images are created with the following considerations regarding the parameter
 
 <div>
 <p align = "center">
-<kbd><img src="https://github.com/manwestc/TINTO/blob/main/imgs/blurring.png" alt="TINTO blurring" width="450"></kbd>
+<kbd><img src="https://github.com/manwestc/TINTO/blob/main/imgs/blurring.png" alt="TINTO blurring" width="250"></kbd>
 </p>
 </div>
 
