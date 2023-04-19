@@ -124,15 +124,13 @@ Please note that the following considerations must be taken into account before 
 
 For example, the following table shows a classic example of the [IRIS CSV dataset](https://archive.ics.uci.edu/ml/datasets/iris) as it should look like for the run:
 
-<div>
-<p align = "center">
+
 | sepal length | sepal width | petal length | petal width | target |
 |--------------|-------------|--------------|-------------|--------|
 | 4.9          | 3.0         | 1.4          | 0.2         | 1      |
 | 7.0          | 3.2         | 4.7          | 1.4         | 2      |
 | 6.3          | 3.3         | 6.0          | 2.5         | 3      |
-</p>
-</div>
+
 
 ## Simple example without Blurring
 The following example shows how to create 20x20 images with characteristic pixels, i.e. without blurring. 
@@ -188,7 +186,7 @@ Once the images have been created by TINTO, they can be imported into any projec
 
 In order to facilitate their use, a Jupyter Notebook has been created in which you can see how the images are read and how they can be used as input in a CNN.
 
-**[Link to Google Colab](https://colab.research.google.com/drive/1plFq1CpEXIdc9LankaLPiOObRg0_y5l2?usp=sharing)
+**[Click here to TINTO crash course in Google Colab](https://colab.research.google.com/drive/1plFq1CpEXIdc9LankaLPiOObRg0_y5l2?usp=sharing)**
 
 ## License
 
