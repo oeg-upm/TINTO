@@ -5,7 +5,12 @@
 
 ## TINTO: Converting Tidy Data into Image for Classification with 2-Dimensional Convolutional Neural Networks
 
-<kbd><img src="imgs/tinto-logo.svg" alt="TINTO Logo" width="100"></kbd>
+<div>
+<p style = 'text-align:center;'>
+<img src="imgs/tinto-logo.svg" alt="TINTO Logo" width="150">
+</p>
+</div>
+
 
 **TINTO** is an engine that constructs **Synthetic Images** from [Tidy Data](https://www.jstatsoft.org/article/view/v059i10) (also knows as **Tabular Data**). 
 
