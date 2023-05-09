@@ -14,7 +14,7 @@
 
 **TINTO** is an engine that constructs **Synthetic Images** from [Tidy Data](https://www.jstatsoft.org/article/view/v059i10) (also knows as **Tabular Data**). 
 
-**Citing TINTO**: If you used TINTO in your work, please cite the **[SoftwareX](https://doi.org/10.1016/j.inffus.2022.10.011)**:
+**Citing TINTO**: If you used TINTO in your work, please cite the **[SoftwareX](https://doi.org/10.1016/j.softx.2023.101391)**:
 
 ```bib
 @article{softwarex_TINTO,
@@ -23,7 +23,7 @@
     author = {Manuel Castillo-Cara and Reewos Talla-Chumpitaz and Raúl García-Castro and Luis Orozco-Barbosa},
     year = {2023},
     issn = {2352-7110},
-    doi = {https://doi.org/10.1016/j.inffus.2022.10.011}
+    doi = {https://doi.org/10.1016/j.softx.2023.101391}
 }
 ```
 
