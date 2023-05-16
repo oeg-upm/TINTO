@@ -7,7 +7,7 @@
 
 <div>
 <p align = "center">
-<img src="imgs/tinto-logo.svg" alt="TINTO Logo" width="150">
+<img src="imgs/logo.svg" alt="TINTO Logo" width="150">
 </p>
 </div>
 
@@ -48,7 +48,7 @@ The growing interest in the use of algorithms-based machine learning for predict
 
 <div>
 <p align = "center">
-<img src="imgs/tinto-framework.png" alt="TINTO Logo" width="650">
+<img src="imgs/tinto-framework.png" alt="Logo" width="650">
 </p>
 </div>
 
