@@ -21,6 +21,8 @@
     title = {TINTO: Converting Tidy Data into Image for Classification with 2-Dimensional Convolutional Neural Networks},
     journal = {SoftwareX},
     author = {Manuel Castillo-Cara and Reewos Talla-Chumpitaz and Raúl García-Castro and Luis Orozco-Barbosa},
+    volume={22},
+    pages={101391},
     year = {2023},
     issn = {2352-7110},
     doi = {https://doi.org/10.1016/j.softx.2023.101391}
