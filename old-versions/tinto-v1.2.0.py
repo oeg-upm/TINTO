@@ -48,8 +48,6 @@ parser.add_argument("-tt",  "--times_tsne", dest="times_tsne", default=4, help="
 parser.add_argument("src_data", help="Source location (tidy data in csv without head)")
 parser.add_argument("dest_folder", help="Destination location (folder)")
 
-parser.add_argument("--show_positions", dest="show_positions", action='store_true', help="Show positions of the features in the image")  # Agregado
-
 parser.add_argument("-v",  "--verbose", dest="verbose", action='store_true', help="Verbose: if it's true, show the compilation text")
 args = parser.parse_args()
 
@@ -357,22 +355,6 @@ class DataImg:
             Y = np.zeros(X.shape[0])
         self.CrearImg(X, Y, folder, train_m=False, verbose=verbose) 
 
-    def getPositionsPixels(self,column_names=None):  # Agregado
-        """
-        This function returns the positions pixels in form of dictionary.
-        """
-        dict_coord = {}
-
-        if (column_names is None):
-            base_columns_name = "column"
-            for i,coord in enumerate(self.pos_pixel_caract):
-                dict_coord[base_columns_name+str(i+1)] = coord
-        else:
-            for i,coord in enumerate(self.pos_pixel_caract):
-                dict_coord[column_names[i]] = coord
-
-        return dict_coord
-
 
 ###########################################################
 ################    TINTO EXECUTION    ####################
@@ -413,12 +395,3 @@ else:
 # Saves the configuration for later use
 if args.save_configuration:
     saveVariable(modeloIMG, filename=args.save_configuration,verbose=args.verbose)
-
-
-# Show positions
-if args.show_positions:       #Agregado
-    print("\nPositions of the features:")
-    if dataset.columns is None:
-        print(modeloIMG.getPositionsPixels())
-    else:
-        print(modeloIMG.getPositionsPixels(dataset.columns))
