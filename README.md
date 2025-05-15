@@ -12,6 +12,24 @@
 
 ---
 
+> ⚠️ **Advertencia Importante**
+>
+> Esta implementación corresponde al motor original **TINTO**, diseñado para convertir datos tabulares en imágenes sintéticas utilizando técnicas de reducción de dimensionalidad y convolución.
+>
+> 📦 **Actualmente se recomienda el uso de la nueva librería [TINTOlib](https://github.com/oeg-upm/TINTOlib)**, la cual incluye:
+>
+> - El método original **TINTO**
+> - Otros métodos avanzados como **IGTD**, **REFINED**, **BarGraph**, **DistanceMatrix**, **Combination**, **FeatureWrap**, **SuperTML** y **BIE**
+> - Interfaz más sencilla y versátil
+> - Documentación completa y actualizada
+> - Curso gratuito con ejemplos, notebooks y videotutoriales
+>
+> 🔄 Además, **TINTOlib** se encuentra en desarrollo activo y recibe actualizaciones constantes.
+>
+> 👉 **Se recomienda encarecidamente usar [TINTOlib](https://github.com/oeg-upm/TINTOlib) para nuevos proyectos y aplicaciones.**
+
+---
+
 ## 🚀 Overview
 
 **TINTO** is a Python engine to transform **Tidy Data** (aka **tabular data**) into **synthetic images**, enabling CNN-based classification on non-visual datasets.
