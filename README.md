@@ -12,21 +12,21 @@
 
 ---
 
-> ⚠️ **Advertencia Importante**
+> ⚠️ **Important Notice**
 >
-> Esta implementación corresponde al motor original **TINTO**, diseñado para convertir datos tabulares en imágenes sintéticas utilizando técnicas de reducción de dimensionalidad y convolución.
+> This repository contains the original implementation of **TINTO**, an engine for converting tabular (tidy) data into synthetic images using dimensionality reduction and convolution techniques.
 >
-> 📦 **Actualmente se recomienda el uso de la nueva librería [TINTOlib](https://github.com/oeg-upm/TINTOlib)**, la cual incluye:
+> 📦 **We strongly recommend using the updated library [TINTOlib](https://github.com/oeg-upm/TINTOlib)**, which includes:
 >
-> - El método original **TINTO**
-> - Otros métodos avanzados como **IGTD**, **REFINED**, **BarGraph**, **DistanceMatrix**, **Combination**, **FeatureWrap**, **SuperTML** y **BIE**
-> - Interfaz más sencilla y versátil
-> - Documentación completa y actualizada
-> - Curso gratuito con ejemplos, notebooks y videotutoriales
+> - The original **TINTO** method
+> - Several additional methods such as **IGTD**, **REFINED**, **BarGraph**, **DistanceMatrix**, **Combination**, **FeatureWrap**, **SuperTML**, and **BIE**
+> - A much more user-friendly and flexible interface
+> - Complete and regularly updated documentation
+> - A free course with examples, notebooks, and video tutorials
 >
-> 🔄 Además, **TINTOlib** se encuentra en desarrollo activo y recibe actualizaciones constantes.
+> 🔄 **TINTOlib** is under active development and continues to receive improvements.
 >
-> 👉 **Se recomienda encarecidamente usar [TINTOlib](https://github.com/oeg-upm/TINTOlib) para nuevos proyectos y aplicaciones.**
+> 👉 **For new projects and applications, we highly recommend switching to [TINTOlib](https://github.com/oeg-upm/TINTOlib).**
 
 ---
 
